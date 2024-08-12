@@ -4,11 +4,12 @@
 This project implements the Deep Q-Learning algorithm to play connect four.
 
 # Instructions
+Execute DQNAgent.py if you wish to train the model. To play against the AI, execute ConnectFourMain.py
 
 # Interface
 The user determines whether or not s/he goes first in the console.\
 The player that goes first uses the red pieces and the next player uses the blue pieces.\
-To add a piece, simply click on the appropriate column.\
+To add a piece, simply click on the appropriate column.
 
 # Credits
 This project would not be possible without the open-source library PyGame.\
