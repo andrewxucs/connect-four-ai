@@ -4,7 +4,7 @@
 This project implements the Deep Q-Learning algorithm to play connect four.
 
 # Instructions
-Execute DQNAgent.py if you wish to train the model. To play against the AI, execute ConnectFourMain.py
+Execute DQNAgent.py if you wish to train the model. The model would be stored in a file named connect_four_dqn_{e}.weights.h5, where e is the current episode number. Currently, ConnectFourMain.py is an interface that allows the user to play both sides. To play against the AI, load the model and automate one side by altering the code of ConnectFourMain.py
 
 # Interface
 The user determines whether or not s/he goes first in the console.\
